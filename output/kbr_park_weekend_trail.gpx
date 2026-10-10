@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<gpx version="1.1" creator="grass-cli" xmlns="[http://www.topografix.com/GPX/1/1](http://www.topografix.com/GPX/1/1)">
+  <metadata>
+    <name>KBR Park Weekend Trail</name>
+    <desc>A scenic 6km trail around KBR Park, featuring entry gates, water stations, and shaded canopy segments, suitable for both cycling and jogging.</desc>
+  </metadata>
+  <trk>
+    <name>KBR Park Weekend Trail</name>
+    <trkseg>
+      <trkpt lat="37.7749" lon="-122.4194">
+        <name>Main Entrance</name>
+        <desc>Start your journey at the main entrance of KBR Park.</desc>
+      </trkpt>
+      <trkpt lat="37.7751" lon="-122.4196">
+        <name>Water Station 1</name>
+        <desc>Refill your water supply at the first water station.</desc>
+      </trkpt>
+      <trkpt lat="37.7753" lon="-122.4198">
+        <name>Shaded Canopy Segment</name>
+        <desc>Enjoy the shaded canopy as you cycle through this scenic segment.</desc>
+      </trkpt>
+      <trkpt lat="37.7755" lon="-122.42">
+        <name>Water Station 2</name>
+        <desc>Take a break and refill your water at the second water station.</desc>
+      </trkpt>
+      <trkpt lat="37.7757" lon="-122.4202">
+        <name>Back Entrance</name>
+        <desc>Complete your loop by returning to the back entrance of KBR Park.</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

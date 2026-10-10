@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<gpx version="1.1" creator="grass-cli" xmlns="[http://www.topografix.com/GPX/1/1](http://www.topografix.com/GPX/1/1)">
+  <metadata>
+    <name>Forest Loop by the Stream</name>
+    <desc>A peaceful 5km loop through a forest with a streamside walk.</desc>
+  </metadata>
+  <trk>
+    <name>Forest Loop by the Stream</name>
+    <trkseg>
+      <trkpt lat="40.7128" lon="-74.006">
+        <name>Start Point</name>
+        <desc>Begin your hike at the forest entrance near the parking lot.</desc>
+      </trkpt>
+      <trkpt lat="40.713" lon="-74.0058">
+        <name>Streamside Walk</name>
+        <desc>Follow the stream for a refreshing walk. Enjoy the sound of water and the cool breeze.</desc>
+      </trkpt>
+      <trkpt lat="40.7132" lon="-74.0056">
+        <name>Scenic Viewpoint</name>
+        <desc>Pause here to take in the beautiful view of the forest and the stream.</desc>
+      </trkpt>
+      <trkpt lat="40.7128" lon="-74.006">
+        <name>End Point</name>
+        <desc>Return to the starting point, completing the loop.</desc>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
